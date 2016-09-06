@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import com.ebs.service.xt.iface.LoginService;
 
 /**
- * 工程： EPS 2.1</br>
+ * 工程： 电子商务系统</br>
  * 类名：LoginController</br>
  *
  * <p>功能描述：TODO</p>
